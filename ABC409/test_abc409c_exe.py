@@ -1,5 +1,5 @@
 # coding: utf-8
-# Copyright (C) 2025 Matsuda.Hironobu. All Rights Reserved.
+# Copyright (C) 2025 HirMtsd. All Rights Reserved.
 # Code for 'AtCoder Beginner Contest 409-C Test'
 # 2025/07/02
 
