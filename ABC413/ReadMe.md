@@ -10,3 +10,4 @@ https://atcoder.jp/contests/abc413/submissions/68797554
 
 ABC413-C
 https://atcoder.jp/contests/abc413/submissions/68797435
+https://atcoder.jp/contests/abc413/submissions/68826345
